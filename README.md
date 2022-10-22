@@ -2,6 +2,9 @@
 
 <a href="https://github.com/cburnside1385/Team_Profile_Generator" target="_blank">Team Profiles</a>
 
+<a href="https://drive.google.com/file/d/1ZsX_EJxR9uvJEmYJVGkWdTAzKIq-KRIC/view" target="_blank">Recording</a>
+<ul><li>There is also a copy of the recording in the Recording folder*</li></ul>
+
 
 GIVEN a command-line application that accepts user input
 WHEN I am prompted for my team members and their information
