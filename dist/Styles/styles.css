@@ -1,0 +1,22 @@
+﻿body
+{
+}
+.jumbotron {
+    background-color: #00274C;
+    
+    border-bottom-color:#FFCB05;
+    border-bottom:5px;
+}
+
+.yellow {
+    color: #FFCB05;
+}
+
+.card-header {
+    background-color: #00274C;
+    color: #FFCB05;
+    border: 2px solid #00274C
+}
+.card-body {
+    border: 2px solid #00274C
+}

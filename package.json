@@ -1,0 +1,26 @@
+{
+  "name": "team_profile_generator",
+  "version": "1.0.0",
+  "description": "Creates profiles for team members",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cburnside1385/Team_Profile_Generator.git"
+  },
+  "author": "chris burnside",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cburnside1385/Team_Profile_Generator/issues"
+  },
+  "homepage": "https://github.com/cburnside1385/Team_Profile_Generator#readme",
+  "dependencies": {
+    "email-validator": "^2.0.4",
+    "inquirer": "^8.0.0"
+  },
+  "devDependencies": {
+    "jest": "^29.2.1"
+  }
+}
